@@ -9,11 +9,13 @@
 - 🔭 I’m currently working on some **Web3 and Blockchain Projects.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
+ 
+- 💻 Ready to work on **C++, JAVA, Solidity, Javascript.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 
-- 📫 How to reach me: **shubham.imsm@gmail.com**
+- 📫 Reach me: **shubham.imsm@gmail.com**
 
   
 
