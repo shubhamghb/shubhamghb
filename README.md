@@ -22,10 +22,8 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> <a href="https://docs.soliditylang.org/" target="_blank"> <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-width="50" height="50"
-viewBox="0 0 172 172"
-style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#ecf0f1"><path d="M39.302,61.92l22.07448,37.84l22.07104,-37.84zM83.45096,55.04l-22.07448,-37.84l-22.07448,37.84zM95.42904,55.04h44.14896l-22.07448,-37.84344zM67.338,13.76l22.102,37.88816l22.09856,-37.88816zM132.698,110.08l-22.07448,-37.84l-22.07104,37.84zM88.54904,116.96l22.07448,37.84l22.07448,-37.84zM76.57096,116.96h-44.14896l22.07448,37.84zM104.662,158.24l-22.102,-37.88816l-22.09856,37.88816z"></path></g></g></svg>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
+    <a href="https://ethereum.org/en/" target="_blank"> <img src="https://img.icons8.com/nolan/64/ethereum.png"/> </a>
     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
