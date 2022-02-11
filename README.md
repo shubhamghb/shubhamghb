@@ -1,4 +1,4 @@
-<a href="#" > <img width="50%" height="auto" src="https://pbs.twimg.com/profile_images/1484547715530850306/nrIdk6kA_400x400.jpg" height="175px"/></a>
+<----------------------------------> <img width="50%" height="auto" src="https://lh3.googleusercontent.com/jAQ5VaQVmDwps8Bpe_JTcaisXTctD5zt6hOvZDPxXKfMmqDzXiGqc_jglBHmLjB3UVbBRnZdz92oL_7OqDLB0BG5kVl1_5gfQUF22kM=w361" height="175px"/><----------------------------------></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Maheshwari !</h1>
 <h3 align="center"> [ Currently Pursuing CSE Core from VIT Vellore ] - [ Sophomore ]</h3>
