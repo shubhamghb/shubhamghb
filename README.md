@@ -1,7 +1,10 @@
-<---------------------> <img width="50%" height="auto" src="https://lh3.googleusercontent.com/jAQ5VaQVmDwps8Bpe_JTcaisXTctD5zt6hOvZDPxXKfMmqDzXiGqc_jglBHmLjB3UVbBRnZdz92oL_7OqDLB0BG5kVl1_5gfQUF22kM=w361" height="175px"/><---------------------></a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Maheshwari !</h1>
 <h3 align="center"> [ Currently Pursuing CSE Core from VIT Vellore ] - [ Sophomore ]</h3>
+
+
+
+
+<p align="left"> <a href="https://twitter.com/shubhamxtwt" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamxtwt?logo=twitter&style=for-the-badge" alt="shubhamxtwt" /></a> </p>
 
 
 ## 🙋‍♂️ About Me
@@ -17,22 +20,35 @@
 
 - 📫 Reach me: **shubham.imsm@gmail.com**
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shubhamxtwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamxtwt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubham-maheshwari-kota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-maheshwari-kota" height="30" width="40" /></a>
+<a href="https://instagram.com/_shubham.maheshwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shubham.maheshwari" height="30" width="40" /></a>
+</p>
+
+
   
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
+     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
     <a href="https://ethereum.org/en/" target="_blank"> <img src="https://img.icons8.com/nolan/64/ethereum.png"/> </a>
     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+       <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
    
 </p>
 
@@ -48,6 +64,7 @@
 ## 📊 My Github Stats
 
   <br/>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamghb&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamghb" /> </p>
  
 <a href="https://github-readme-stats.vercel.app/api?username=shubhamghb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Shubham Maheshwari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhamghb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamghb&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Shubham Maheshwari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamghb&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
