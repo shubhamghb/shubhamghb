@@ -6,6 +6,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/shubhamxtwt" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamxtwt?logo=twitter&style=for-the-badge" alt="shubhamxtwt" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamghb&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamghb" /> </p>
 
 
 ## 🙋‍♂️ About Me
@@ -65,7 +66,7 @@
 ## 📊 My Github Stats
 
   <br/>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamghb&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamghb" /> </p>
+  
  
 <a href="https://github-readme-stats.vercel.app/api?username=shubhamghb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Shubham Maheshwari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhamghb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamghb&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Shubham Maheshwari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamghb&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
