@@ -1,6 +1,8 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey!%20%20⚡🤠&text2=💖%20%20Github&width=800&height=250)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Maheshwari !</h1>
-<h3 align="center"> [ Currently Pursuing CSE Core from VIT Vellore ] - [ Sophomore ]</h3>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CSE+Core+Sophomore+At+VIT+Vellore!)](https://github.com/shubhamghb/)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -98,4 +100,5 @@ Visitor: <p align="left"> <img src="https://profile-counter.glitch.me/shubhamghb
 
 </p>
 
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
