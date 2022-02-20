@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CSE+Core+Sophomore+At+VIT+Vellore!)](https://github.com/shubhamghb/)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif">
+
 
 
 <p align="left"> <a href="https://twitter.com/shubhamxtwt" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamxtwt?logo=twitter&style=for-the-badge" alt="shubhamxtwt" /></a> </p>
@@ -102,3 +103,4 @@ Visitor: <p align="left"> <img src="https://profile-counter.glitch.me/shubhamghb
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+<!--https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
