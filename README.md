@@ -22,6 +22,10 @@
 
 
 - 📫 Reach me: **shubham.imsm@gmail.com**
+- Want something funny?
+
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 <h3 align="left">Connect with me:</h3>
