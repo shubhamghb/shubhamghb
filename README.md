@@ -9,6 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamghb&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamghb" /> </p>
 
 
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on some **Web3 and Blockchain Projects.**
@@ -82,7 +83,9 @@
 <br/>
 <br/>
 
-## Connect with me :
+## Connect with me
+Visitor: <p align="left"> <img src="https://profile-counter.glitch.me/shubhamghb/count.svg" alt="shubhamghb" /> </p>
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/shubham-maheshwari-kota/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
