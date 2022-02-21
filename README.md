@@ -25,7 +25,7 @@
 
 
 - 📫 Reach me: **shubham.imsm@gmail.com**
-- Want something funny?
+- Something funny?
 
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
