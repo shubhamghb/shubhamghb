@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey!%20%20⚡🤠&text2=💖%20%20Github&width=800&height=250)
+<!--![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey!%20%20⚡🤠&text2=💖%20%20Github&width=800&height=250)-->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Maheshwari !</h1>
 
 
