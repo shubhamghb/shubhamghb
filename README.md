@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Maheshwari !</h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CSE+Core+Pre-Final Year+At+VIT+Vellore!)](https://github.com/shubhamghb/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CSE+Core+Pre+Final+Year+At+VIT+Vellore!)](https://github.com/shubhamghb/)
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif">
 
