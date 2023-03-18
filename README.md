@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Maheshwari !</h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CSE+Core+Sophomore+At+VIT+Vellore!)](https://github.com/shubhamghb/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CSE+Core+Pre-Final Year+At+VIT+Vellore!)](https://github.com/shubhamghb/)
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif">
 
@@ -19,16 +19,16 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
  
-- 💻 Ready to work on **C++, JAVA, Solidity, Javascript.**
+<!-- - 💻 Ready to work on **C++, JAVA, Solidity, Javascript.** -->
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 
 - 📫 Reach me: **shubham.imsm@gmail.com**
-- Something funny?
+<!-- - Something funny?
 
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> -->
 
 
 <h3 align="left">Connect with me:</h3>
