@@ -28,7 +28,7 @@
 <!-- - Something funny?
 
 <!-- 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> --> -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> -->  
 
 
 <h3 align="left">Connect with me:</h3>
@@ -85,7 +85,7 @@
 <br/>
 <br/>
 
-<a href="https://activity-graph.herokuapp.com/graph?username=shubhamghb&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="Shubham Maheshwari's Activity Graph" src="https://activity-graph.herokuapp.com/graphusername=shubhamghb&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://activity-graph.herokuapp.com/graph?username=shubhamghb&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="Shubham Maheshwari's Activity Graph" src="https://activity-graph.herokuapp.com/graphusername=shubhamghb&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
